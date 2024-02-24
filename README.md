@@ -1,1 +1,2 @@
-{Random Quote Generator}(https://github.com/Harshiitt26/FRONT-END-DEVELOPMENT-LIBRARIES-PROJECT.git)
+## [A Random Quote Generator](https://harshiitt26.github.io/front_end_development_libraries_project/)
+
